@@ -9,4 +9,8 @@
 8. 微信提醒功能。在开始P地，成功P地，P地失败和其他异常情况时都会推送一个通知到您的微信。
 9. 隐私保护。该软件可离线运行，无需填写公钥私钥，绝不会影响您的钱包安全。
 
+![demo1](https://ae01.alicdn.com/kf/U14e85428e4214ae4aac022c3a59556361.jpg 'demo1')
+
+![demo2](https://ae01.alicdn.com/kf/Ub24c5e2f8a5e487c993fd51e28ba25e4l.jpg 'demo2')
+
 *下载：https://github.com/redemptiongh/ChiaPlotHelper/releases/tag/Release*
