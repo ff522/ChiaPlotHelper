@@ -14,4 +14,5 @@
 
 ![demo2](https://ae01.alicdn.com/kf/Ub24c5e2f8a5e487c993fd51e28ba25e4l.jpg 'demo2')
 
-## 下载：https://github.com/redemptiongh/ChiaPlotHelper/releases/tag/Release
+## 下载地址
+https://github.com/redemptiongh/ChiaPlotHelper/releases/tag/Release
