@@ -15,4 +15,5 @@
 ![demo2](https://ae01.alicdn.com/kf/Ub24c5e2f8a5e487c993fd51e28ba25e4l.jpg 'demo2')
 
 ## 下载地址
-https://github.com/redemptiongh/ChiaPlotHelper/releases/tag/Release
+地址1：https://github.com/redemptiongh/ChiaPlotHelper/releases/tag/Release
+地址2： https://pan.baidu.com/s/1grFd5a_H3RAA3PDRAgoY2w 提取码: 96fk
