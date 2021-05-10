@@ -16,4 +16,5 @@
 
 ## 下载地址
 地址1：https://github.com/redemptiongh/ChiaPlotHelper/releases/tag/Release
+
 地址2： https://pan.baidu.com/s/1grFd5a_H3RAA3PDRAgoY2w 提取码: 96fk
