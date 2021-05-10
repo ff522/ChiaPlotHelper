@@ -1,4 +1,5 @@
 # ChiaPlotHelper - Chia P盘助手 - 散户福利
+## 软件特性
 1. 设定好参数后全自动连续P地，无需人为干预，方便省事。
 2. 支持多缓存盘，根据每个缓存盘不同容量设置不同的并行任务数，防止缓存盘爆盘。
 3. 支持多目标盘负载均衡，分散机械硬盘写盘压力，自动剔除已满的目标盘。
@@ -13,4 +14,4 @@
 
 ![demo2](https://ae01.alicdn.com/kf/Ub24c5e2f8a5e487c993fd51e28ba25e4l.jpg 'demo2')
 
-# 下载：https://github.com/redemptiongh/ChiaPlotHelper/releases/tag/Release
+## 下载：https://github.com/redemptiongh/ChiaPlotHelper/releases/tag/Release
